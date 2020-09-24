@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Rav3Test.1695062062.00" t="ExcludeRecursive" />
+    <e p="F:\Rav3Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Assets" t="Include">
+          <e p="Addons" t="Include">
+            <e p="ItemConfiguratorView.cs" t="Include" />
+          </e>
+          <e p="InventoryManager.cs" t="Include" />
+          <e p="ItemInstance3D.cs" t="Include" />
+          <e p="MouseEnterExitTrigger.cs" t="Include" />
+          <e p="Server" t="Include">
+            <e p="ICommand.cs" t="Include" />
+            <e p="InventoryCommands.cs" t="Include" />
+            <e p="IWebCommand.cs" t="Include" />
+            <e p="PostWebCommand.cs" t="Include" />
+            <e p="RequestType.cs" t="Include" />
+            <e p="ServerCommandManager.cs" t="Include" />
+          </e>
+          <e p="SlotS" t="Include">
+            <e p="MeshSlot.cs" t="Include" />
+            <e p="SlotBase.cs" t="Include" />
+            <e p="UISlot.cs" t="Include" />
+          </e>
+          <e p="Storing" t="Include">
+            <e p="ItemData.cs" t="Include" />
+            <e p="ItemGroupsStorage.cs" t="Include" />
+          </e>
+          <e p="TypedInstance.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Rav3Test.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb709f5b-2835-4e30-bae0-bc89bd0b618b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Dropdown.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/7a/0f450160/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3D838B7-33A6-4B7E-A996-E9453CE1CAF6/04/069651de/IMultipartFormSection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3D838B7-33A6-4B7E-A996-E9453CE1CAF6/3c/8c790b41/WWWForm.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18B38ADE-9B85-49A5-AFF4-B379F33ECCEC/e7/c5bc6946/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3D838B7-33A6-4B7E-A996-E9453CE1CAF6/9b/3e4a272d/UnityWebRequestAsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AADE2B82-F936-4A09-BA1D-6FD576F56FD7/96/36676a4f/ICancelHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3D838B7-33A6-4B7E-A996-E9453CE1CAF6/38/171adc86/UploadHandlerRaw.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AADE2B82-F936-4A09-BA1D-6FD576F56FD7/9f/96e917b6/ISubmitHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/MaskableGraphic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AADE2B82-F936-4A09-BA1D-6FD576F56FD7/28/7bbdd243/IDropHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50A7D4C6-BF79-402F-B57E-36B7C2AAE5E0/5b/28a20053/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/Raycasters/PhysicsRaycaster.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3D838B7-33A6-4B7E-A996-E9453CE1CAF6/29/4155025b/UnityWebRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78327B6C-3C08-4CA5-975B-799474D7A953/32/03a8e8b8/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/RaycastResult.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/IsEndDragInsideElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/IsEndDragInsideElementTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/DefauktItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ServerCommandManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestR.cs" />
+        <option value="$PROJECT_DIR$/Assets/ItemGroupsStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/InventoryCoomands.cs" />
+        <option value="$PROJECT_DIR$/Assets/ICommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/InventoryCommands.cs" />
+        <option value="$PROJECT_DIR$/Assets/SlotGroupView.cs" />
+        <option value="$PROJECT_DIR$/Assets/DefaultItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ItemBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/DragManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TypedInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/ItemInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEnterExitTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/ItemData.cs" />
+        <option value="$PROJECT_DIR$/Assets/ConfiguratorView.cs" />
+        <option value="$PROJECT_DIR$/Assets/ItemConfiguratorView.cs" />
+        <option value="$PROJECT_DIR$/Assets/SlotBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/MeshSlot.cs" />
+        <option value="$PROJECT_DIR$/Assets/ItemInstance3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/InventoryManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Server/ServerCommandManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Server/ICommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Server/InventoryCommands.cs" />
+        <option value="$PROJECT_DIR$/Assets/UISlot.cs" />
+        <option value="$PROJECT_DIR$/Assets/RealtimeItemsStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hrSRZitskte30YS7SStX0DNnLn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Static Method.DefaultWebCommandTest.RunTest">
+    <configuration name="DefaultWebCommandTest.RunTest" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.3.4\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <option name="CLASS_NAME" value="DefaultWebCommandTest" />
+      <option name="METHOD_NAME" value="RunTest" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.DefaultWebCommandTest.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb709f5b-2835-4e30-bae0-bc89bd0b618b" name="Default Changelist" comment="" />
+      <created>1600767711755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600767711755</updated>
+      <workItem from="1600767717020" duration="8075000" />
+      <workItem from="1600783660612" duration="27680000" />
+      <workItem from="1600872255330" duration="7619000" />
+      <workItem from="1600892454514" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1600777345822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600777345822" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1600777345822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600777345822" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1600777345822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600777345822" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1600777345822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600777345822" />
+    <state x="788" y="194" key="RiderGenerateDialog" timestamp="1600886346289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="194" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600886346289" />
+  </component>
+</project>
